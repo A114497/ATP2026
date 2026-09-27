@@ -7,5 +7,5 @@ A114497
 
 Este tpc tinha como objetivo criar dois jogos, um onde o utilizador pensa num número de 1 a 100 e depois a máquina tenta adivinhar o número escolhido, e outro o contrário, ou seja, a máquina escolhe um número de 1 a 100 e o utilizador é que tenta adivinhar o número escolhido.
 
-Jogo onde utilizador pensa no número [clica aqui](TPC2_user.py)
+Jogo onde utilizador pensa no número [clica aqui](TPC2_user.py)  
 Jogo onde máquina pensa no número [clica aqui](TPC2_pc.py)
