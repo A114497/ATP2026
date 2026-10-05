@@ -13,5 +13,5 @@ Na realização deste jogo:
 
 Para isso, foram realizados dois jogos, um onde o computador começa e, como pretendido, vence, e outro onde começa o utilizador
 
-Jogo onde utilizador começa [clica aqui](TPC2_user.py).  
-Jogo onde computador começa [clica aqui](TPC2_pc.py).
+Jogo onde utilizador começa [clica aqui](TPC3_user_começa.py).  
+Jogo onde computador começa [clica aqui](TPC3_pc_começa.py).
